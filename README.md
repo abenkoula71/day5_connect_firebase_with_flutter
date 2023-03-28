@@ -1,5 +1,6 @@
-<h2> day5_connect_firebase_with_flutter</h2>
+<h2> day5_connect_firebase_with_flutter :</h2>
 
+Working with Firebase in Flutter is a straightforward process, and there are several steps to follow:
 
 
 
