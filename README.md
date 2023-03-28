@@ -17,7 +17,8 @@
 Here's an example of how to authenticate a user with Firebase in Flutter:
 
 
-```import 'package:firebase_auth/firebase_auth.dart';
+```
+import 'package:firebase_auth/firebase_auth.dart';
 
 final FirebaseAuth _auth = FirebaseAuth.instance;
 
